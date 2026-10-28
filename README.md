@@ -80,8 +80,8 @@ LinkShort is a complete link-management product, not a demo shell. Create a shor
 ## Quickstart
 
 ```bash
-git clone https://github.com/danish296/link-shortner-super.git
-cd link-shortner-super
+git clone https://github.com/blue007-arc/advanced_link_shortner.git
+cd advanced_link_shortner
 npm install
 npm run dev
 ```
@@ -479,4 +479,4 @@ This is a working product backed by a real database, not a mockup. These are the
 
 MIT — use it, fork it, self-host it.
 
-<p align="center"><sub>Built with Next.js, SQLite and a lot of CSS custom properties. Maintained by <a href="https://github.com/danish296">@danish296</a>.</sub></p>
+<p align="center"><sub>Built with Next.js, SQLite and a lot of CSS custom properties. Maintained by <a href="https://github.com/blue007-arc">@blue007-arc</a>.</sub></p>
